@@ -18,8 +18,8 @@ author:
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: http://analytics360.github.io
+baseurl: ""
 
 # language attribute in <html> element.
 lang: en
